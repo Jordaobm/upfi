@@ -24,7 +24,7 @@
 </div>
 
 
-Um desafio proposto na trilha Ignite de 2021 com objetivo de mostrar os conhecimentos aplicados durante o capítulo <strongIV</strong>; O 
+Um desafio proposto na trilha Ignite de 2021 com objetivo de mostrar os conhecimentos aplicados durante o capítulo <strong>IV</strong>; O 
 upfi é uma aplicação que consiste em um site onde o usuário poderá subir imagens para guardá-las em um banco de dados online. Conceitos como: 
 
 - Infinite Queries e Mutations com React Query;
